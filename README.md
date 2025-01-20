@@ -1,5 +1,6 @@
 # 💫 About Me:
 ✨ Hi 👋, I'm Jonatan Ventura<br>✨ A passionate Frontend Developer from Brazil.<br><br>✨ I love transforming ideas into seamless digital experiences, focusing on both functionality and aesthetics.
+
 ✨ Work samples: https://on.contra.com/MBwJKr
 
 
